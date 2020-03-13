@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">firstapp</string>
     <string name="action_settings">Settings</string>
+    <string name="title">Happy Birthday</string>
+    <string name="name">Dear Ming</string>
+    <string name="date">2020.3.13</string>
 </resources>
